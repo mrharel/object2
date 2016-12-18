@@ -1,5 +1,5 @@
 /**
- * Compare two objects.
+ * Compare two objects cloned version.
  * @method isEqual
  * @param o1 {Object} the object that is compared to
  * @param o2 {Object} the object that is compared with
